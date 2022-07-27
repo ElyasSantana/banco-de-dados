@@ -3,7 +3,7 @@ import random
 
 faker = faker.Faker(locale="pt_BR")
 
-with open("readme.csv", "w") as f:
+with open("dados.csv", "w") as f:
     f.write("nomeAluno,endereco,dataNascimento,Curso_codigoCurso\n")
     for _ in range(10):
         codigoCurso: int = random.randint(1, 5)
