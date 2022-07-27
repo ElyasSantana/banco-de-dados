@@ -1,0 +1,11 @@
+nomeAluno,endereco,dataNascimento,Curso_codigoCurso
+INSERT INTO Curso (nomeAluno,endereco,dataNascimento) VALUES ('Elisa Cunha','Residencial de Rocha','2012-05-10',3);
+INSERT INTO Curso (nomeAluno,endereco,dataNascimento) VALUES ('Vitor Gabriel Souza','Campo Farias','1975-03-01',1);
+INSERT INTO Curso (nomeAluno,endereco,dataNascimento) VALUES ('Maria Sophia Fernandes','Conjunto Camila Peixoto','2021-09-14',4);
+INSERT INTO Curso (nomeAluno,endereco,dataNascimento) VALUES ('Kaique Ribeiro','Via da Rocha','1994-11-06',3);
+INSERT INTO Curso (nomeAluno,endereco,dataNascimento) VALUES ('Nina Ferreira','Quadra de Castro','2002-11-08',3);
+INSERT INTO Curso (nomeAluno,endereco,dataNascimento) VALUES ('Luiz Miguel Pires','Esplanada da Cunha','1999-06-27',4);
+INSERT INTO Curso (nomeAluno,endereco,dataNascimento) VALUES ('Sra. Vitória Rocha','Área Bryan Viana','1972-12-12',2);
+INSERT INTO Curso (nomeAluno,endereco,dataNascimento) VALUES ('Vitor Gabriel Duarte','Vereda Bernardo Nunes','1977-06-04',3);
+INSERT INTO Curso (nomeAluno,endereco,dataNascimento) VALUES ('Enrico da Rosa','Passarela Costa','1987-06-04',3);
+INSERT INTO Curso (nomeAluno,endereco,dataNascimento) VALUES ('Sra. Agatha Barros','Ladeira Ana Julia Pinto','1984-08-25',5);
